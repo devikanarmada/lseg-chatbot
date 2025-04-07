@@ -1,0 +1,48 @@
+.chatbot-ui {
+  .chatbot-content {
+    margin: 1rem 0 0 0;
+    text-align: left;
+  }
+  .greeting {
+    margin: 0 1rem;
+    background-color: #e8f4fd;
+    padding: 1rem;
+    width: 60%;
+  }
+  .home-menu {
+    margin: 1rem;
+    background-color: #e8f4fd;
+    width: 70%;
+    padding: 1rem 0;
+  }
+  .main-menu-title,
+  .stock-title,
+  .stock-price {
+    padding: 0 0 0 1rem;
+  }
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  li {
+    padding: 10px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .selected-exchange,
+  .selected-stock {
+    text-align: right;
+    margin:0 1rem 0 auto;
+    background-color: #f2f2f2;
+    padding: 1rem;
+    width:60%;  
+  }
+  .error-message{
+    margin: 1rem;
+    color: red;
+    padding: 1rem;
+  }
+}
