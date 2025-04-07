@@ -1,0 +1,16 @@
+.chatbot-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: #0266ff;
+  color: #ffffff;
+  font-size: 1.2rem;
+  font-weight: 700;
+  .title {
+    margin: 0 0 0 2rem;
+  }
+  .chatbot-icon {
+    height: 3rem;
+    width: 3rem;
+  }
+}
