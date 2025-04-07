@@ -1,8 +1,8 @@
-# 📈 LSEG UI Chatbot
+## 📈 LSEG UI Chatbot
 
 A React-based chatbot that allows users to interactively browse stock exchanges, view top-performing stocks, and check real-time prices.
 
-# 🚀 How to Run the Project
+## 🚀 How to Run the Project
 1. Clone the Repository
    git clone https://github.com/devikanarmada/lseg-chatbot.git
 
